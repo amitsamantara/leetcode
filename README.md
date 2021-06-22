@@ -1,2 +1,1 @@
-# leetcode
-leetcode soultions
+It is a repo of leetcode problem solutions
